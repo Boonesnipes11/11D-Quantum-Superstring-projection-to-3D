@@ -1,4 +1,4 @@
-readme_content = """
+
 # 11D-Quantum-Superstring-Projection-to-3D
 
 This repository contains a Python script that visualizes quantum superstring theory in an 11-dimensional space. The simulation provides an interactive experience, allowing users to manipulate various parameters such as vibrational modes, string tension, and gravity to observe their effects on the 3D projection of the 11-dimensional string vibrations.
